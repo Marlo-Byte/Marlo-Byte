@@ -29,7 +29,8 @@ Hola, soy Mariano López!
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Lenguajes principales: JavaScript, C++
 🚩 Interesado en el desarrollo de aplicaciones Full Stack Machine Learning
-🤔 Estudie por <b>3 años</b> Ingeniero en Informatica <b>en: <a href="https://www.ucasal.edu.ar/" target="_blank">UCASAL - Universidad Católica de Salta</a>
+💬 Estudie por <b>3 años</b> Ingeniero en Informatica <b>en: <a href="https://www.ucasal.edu.ar/" target="_blank">UCASAL - Universidad Católica de Salta</a>
+🤔 Actualmente estoy abierto para: <b>Una pasantía</b> o una nueva <b>oportunidad laboral</b>, este es <a href="https://drive.google.com/file/d/1rllSyiONWfhhdwGy_eaC-KjH_0Y-w864/view?usp=sharing" target="_blank">MI CV.</a>
 </pre>
 <hr>
 
@@ -83,3 +84,9 @@ Si quiere desarrollar una pagina web, no dude en <a href="mailto:marianolopgarci
   </td>
   </tr>
 </table>
+
+------
+
+[Mariano López](https://github.com/Marlo-Byte)
+
+Última edición:: 16/07/2024
